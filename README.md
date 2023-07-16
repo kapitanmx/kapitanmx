@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapitanmx
-- 👀 I’m interested in Go, Web Development (HTML, CSS, JavaScript, React etc.), Data Science and AI
-- 🌱 I’m currently learning Go, SQL, Three.js
+- 👀 I’m interested in Go, Web Development (HTML, CSS, JavaScript, React and other), Data Science and AI
+- 🌱 I’m currently learning Go, Three.js, Docker
 - 📫 How to reach me: 
 - Mail: mikolaj.woloszyn02@gmail.com
 - Website: mikolajwoloszyn.herokuapp.com
